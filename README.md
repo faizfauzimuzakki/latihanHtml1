@@ -9,13 +9,13 @@
   tag-tag dasar HTML.</p>
 ```
 
-Gambar(https://github.com/faizfauzimuzakki/latihanHtml1/blob/main/gambar1.jpg)
+![pict1](https://github.com/DimasF3009/Lab1web/assets/115356128/167c3374-4163-41b4-b4dc-ce7c0b540f42)
 
 ## Menambahkan Judul
 ```
 <h1 align = "center">BELAJAR HTML</h1>
 ```
-![pict2 1](https://github.com/faizfauzimuzakki/latihanHtml1/blob/main/gambar1.jpg)
+![pict2 1](https://github.com/DimasF3009/Lab1web/assets/115356128/af07e124-aa0d-4d89-ad85-955574b56929)
 
 ## Memformat teks
 ```
