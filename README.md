@@ -9,7 +9,7 @@
   tag-tag dasar HTML.</p>
 ```
 
-![pict1](blob:https://web.whatsapp.com/c4a85904-ea12-4574-8db9-f7c58be622ea)
+Gambar(blob:https://web.whatsapp.com/c4a85904-ea12-4574-8db9-f7c58be622ea)
 
 ## Menambahkan Judul
 ```
